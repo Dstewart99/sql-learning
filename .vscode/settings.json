@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "IAM Practice",
+            "database": "iam_practice.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
